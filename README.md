@@ -6,6 +6,7 @@ Here are the notebooks I made to keep notes while I read the book An introductio
 * Explaination of concepts in the book
 * Algorithms in the book
 * Extra resources for intuition sprinkled here and there
+* No exercices
 
 ## Prerequisites
 Since I had the following knowledge from different courses I didn't bother to explain all the concepts
@@ -20,3 +21,6 @@ Since I had the following knowledge from different courses I didn't bother to ex
 
 ## Are these state of the art implementations?
 No
+
+## Is this finished?
+No, I still have to implement a few algorithms here and there
