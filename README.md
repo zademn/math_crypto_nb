@@ -8,7 +8,7 @@ Here are the notebooks I made to keep notes while I read the book An introductio
 * Extra resources for intuition sprinkled here and there
 * No exercices  
 
-I also added handwritten notes (sorry if I write horribly)
+
 
 ## Prerequisites
 Since I had the following knowledge from different courses I didn't bother to explain all the concepts
@@ -16,6 +16,9 @@ Since I had the following knowledge from different courses I didn't bother to ex
 * Probability Theory
 * Group Theory
 * Information Theory
+
+^ I also added handwritten notes with more theory from the book reagrding these (sorry if I write horribly)  
+Use them to follow along
 
 ## What programming language did you use?
 * Python mainly
