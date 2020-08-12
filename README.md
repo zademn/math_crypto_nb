@@ -6,7 +6,7 @@ Here are the notebooks I made to keep notes while I read the book An introductio
 * Explaination of concepts in the book
 * Algorithms in the book
 * Extra resources for intuition sprinkled here and there
-* No exercices
+* No exercices  
 I also added handwritten notes (sorry if I write horribly)
 
 ## Prerequisites
