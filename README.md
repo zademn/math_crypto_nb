@@ -17,7 +17,7 @@ Since I had the following knowledge from different courses I didn't bother to ex
 * Group Theory
 * Information Theory
 
-^ I also added handwritten notes with more theory from the book reagrding these (sorry if I write horribly)  
+^ I also added handwritten notes with more theory from the book regarding these (sorry if I write horribly)  
 Use them to follow along
 
 ## What programming language did you use?
